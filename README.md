@@ -1,19 +1,71 @@
-<h1 align="center">Hi 👋, I'm Thansingh Kamriya</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# 👋 Hi there, I'm Than Singh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thansingh2000&label=Profile%20views&color=0e75b6&style=flat" alt="thansingh2000" /> </p>
+I'm a passionate **Frontend Developer** and aspiring **Software Engineer**, currently working at **Interbizconsulting Pvt. Ltd.** and preparing to crack coding interviews at top tech companies like **Google, Microsoft, and Meta**. I specialize in building elegant, responsive, and scalable web applications using **Angular, TypeScript, and modern UI frameworks**.
 
-- 🔭 I’m currently working on **Interbiz Consulting**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 💻 What I Do
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- 🔹 Develop responsive UI with Angular and modern JavaScript frameworks
+- 🔹 Convert UI/UX designs into pixel-perfect frontend interfaces
+- 🔹 Solve real-world problems using clean, modular, and scalable code
+- 🔹 Continuously improving my knowledge in **DSA** and **System Design**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thansingh2000&show_icons=true&locale=en&layout=compact" alt="thansingh2000" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thansingh2000&show_icons=true&locale=en" alt="thansingh2000" /></p>
+## 🧠 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thansingh2000&" alt="thansingh2000" /></p>
+- ✔ HTML5, CSS3, SCSS
+- ✔ JavaScript (ES6+), TypeScript
+- ✔ Angular, Angular Material
+- ✔ Responsive Design, UI/UX Principles
+- ✔ Git, GitHub, VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 [Skin Clinic Website](https://github.com/thansingh2000/skin-clinic-website)  
+A fully responsive website for a skin and beauty clinic with modern design, clean layout, and mobile-first responsiveness.  
+**Tech Stack**: HTML, CSS, JavaScript
+
+---
+
+### 📈 [Digital Marketing Agency Website](https://github.com/thansingh2000/digital-marketing-agency-website)  
+Professional landing page for a digital marketing company featuring smooth scroll, call-to-actions, and responsive layout.  
+**Tech Stack**: HTML, CSS, JavaScript
+
+---
+
+### 🏘️ [Real Estate Website](https://github.com/thansingh2000/real-state-website)  
+Modern real estate site showcasing listings and property features with a clean, professional look.  
+**Tech Stack**: HTML, CSS, JavaScript
+
+---
+
+## 🎯 Current Goals
+
+- 📚 Master **Data Structures & Algorithms** from scratch
+- 🧱 Learn **System Design** to build scalable applications
+- 💼 Secure a Software Engineer role at top product-based companies
+- 🛠 Build & deploy full-stack Angular projects
+- 🤝 Contribute to open-source and collaborate with the developer community
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/than22/)
+- 📧 Email: mrthansingh2000@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+When I’m not coding, I love exploring hidden travel routes and sharing stories through my platform **The Hidden Routes** 🗺️🎒  
+Adventure fuels my code and creativity 💻✨
+
+---
+
+Thanks for visiting my GitHub!  
+Let’s connect and build something amazing together 🚀
